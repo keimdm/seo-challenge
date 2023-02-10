@@ -34,7 +34,15 @@ N/A
 
 ## Usage
 
-There are three links in the header which can be clicked to link to the relevant sections of the application.
+Github Link: https://keimdm.github.io/seo-challenge/
+
+![](./assets/images/screenshot.png)
+
+The header for the website is displayed at the top, with the brand name Horiseon as well as a toolbar containing three links. These links can be clicked to scroll the user down to the relevant sections of the application.
+
+Below the hero image, there is a section about different types of SEO, broken out into three subsections. Each subsection contains a title, image and brief description. Additionally, there is an aside dedicated to SEO benefits, also with three subsections. Each of those also contains a title, image and description.
+
+A footer is placed at the bottom of the page, indicating the maker and copyright information.
 
 ## Credits
 
